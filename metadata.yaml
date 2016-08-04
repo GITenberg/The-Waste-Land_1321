@@ -1,0 +1,75 @@
+_repo: The-Waste-Land_1321
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, T. S. (Thomas Stearns)
+    alias: Eliot, Thomas Stearns
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '599'
+    url: http://www.gutenberg.org/2009/agents/599
+    wikipedia: http://en.wikipedia.org/wiki/T._S._Eliot
+description: "The Waste Land is a long poem by T. S. Eliot. It is widely regarded\
+  \ as one of the most important poems of the 20th century and a central text in Modernist\
+  \ poetry. Published in 1922, the 434-line poem first appeared in the United Kingdom\
+  \ in the October issue of The Criterion and in the United States in the November\
+  \ issue of The Dial. It was published in book form in December 1922. Among its famous\
+  \ phrases are \"April is the cruellest month\", \"I will show you fear in a handful\
+  \ of dust\", and the mantra in the Sanskrit language \"Shantih shantih shantih\"\
+  .\nEliot's poem loosely follows the legend of the Holy Grail and the Fisher King\
+  \ combined with vignettes of contemporary British society. Eliot employs many literary\
+  \ and cultural allusions from the Western canon, Buddhism and the Hindu Upanishads.\
+  \ Because of this, critics and scholars regard the poem as obscure. The poem shifts\
+  \ between voices of satire and prophecy featuring abrupt and unannounced changes\
+  \ of speaker, location, and time and conjuring of a vast and dissonant range of\
+  \ cultures and literatures.\nThe poem's structure is divided into five sections.\
+  \ The first section, The Burial of the Dead, introduces the diverse themes of disillusionment\
+  \ and despair. The second, A Game of Chess, employs vignettes of several characters—alternating\
+  \ narrations—that address those themes experientially. The Fire Sermon, the third\
+  \ section, offers a philosophical meditation in relation to the imagery of death\
+  \ and views of self-denial in juxtaposition influenced by Augustine of Hippo and\
+  \ eastern religions. After a fourth section that includes a brief lyrical petition,\
+  \ the culminating fifth section, What the Thunder Said, concludes with an image\
+  \ of judgment.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1321'
+  wikidata: Q581458
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- !lcsh 'Prose poems'
+- GITenberg
+title: The Waste Land
+url: http://www.gutenberg.org/ebooks/1321
+wikipedia:
+- https://fi.wikipedia.org/wiki/Autio_maa
+- https://pa.wikipedia.org/wiki/%E0%A8%A6_%E0%A8%B5%E0%A9%87%E0%A8%B8%E0%A8%9F_%E0%A8%B2%E0%A9%88%E0%A8%82%E0%A8%A1
+- https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86_%D9%87%D8%B1%D8%B2
+- https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5t_hoang
+- https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%B5%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F_%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1
+- https://ja.wikipedia.org/wiki/%E8%8D%92%E5%9C%B0_(%E8%A9%A9)
+- https://pt.wikipedia.org/wiki/The_Waste_Land
+- https://es.wikipedia.org/wiki/La_tierra_bald%C3%ADa
+- https://en.wikipedia.org/wiki/The_Waste_Land
+- https://ro.wikipedia.org/wiki/%C8%9Aara_pierdut%C4%83
+- https://ko.wikipedia.org/wiki/%ED%99%A9%EB%AC%B4%EC%A7%80_(%EC%8B%9C)
+- https://fr.wikipedia.org/wiki/La_Terre_vaine
+- https://zh.wikipedia.org/wiki/%E8%8D%92%E5%8E%9F_(%E8%A9%A9)
+- https://fy.wikipedia.org/wiki/It_Jiskel%C3%A2n
+- https://kn.wikipedia.org/wiki/%E0%B2%A6_%E0%B2%B5%E0%B3%87%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%8D%E2%80%8C_%E0%B2%B2%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%A1%E0%B3%8D%E2%80%8C%E2%80%8C
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D8%B6_%D8%A7%D9%84%D9%8A%D8%A8%D8%A7%D8%A8
+- https://nl.wikipedia.org/wiki/The_Waste_Land
+- https://cs.wikipedia.org/wiki/Pust%C3%A1_zem%C4%9B
+- https://de.wikipedia.org/wiki/Das_w%C3%BCste_Land
+- https://it.wikipedia.org/wiki/La_terra_desolata
+- https://la.wikipedia.org/wiki/The_Waste_Land
+- https://is.wikipedia.org/wiki/Ey%C3%B0ilandi%C3%B0
+- https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%A5_%D7%94%D7%99%D7%A9%D7%99%D7%9E%D7%95%D7%9F
+- https://sv.wikipedia.org/wiki/Det_%C3%B6de_landet
