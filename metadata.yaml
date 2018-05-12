@@ -1,5 +1,8 @@
 _repo: The-Waste-Land_1321
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eliot, T. S. (Thomas Stearns)
@@ -31,6 +34,8 @@ description: "The Waste Land is a long poem by T. S. Eliot. It is widely regarde
   \ eastern religions. After a fourth section that includes a brief lyrical petition,\
   \ the culminating fifth section, What the Thunder Said, concludes with an image\
   \ of judgment.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1321#The-Waste-Land
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
